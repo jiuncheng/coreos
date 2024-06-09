@@ -1,0 +1,21 @@
+{
+  "ignition": {
+    "version": "3.4.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "groups": [
+          "wheel"
+        ],
+        "homeDir": "/home/core",
+        "name": "core",
+        "passwordHash": "$y$j9T$VSurAIEcf3DUMEdBUw0Pl0$pyEVV6f./WlMhlg4TOhzLQXXBjwOHwLBlkz0xrZJShC",
+        "sshAuthorizedKeys": [
+          "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIA5iVUmodoOiGwfYAWYh7phhAshaOUyED0LnnN2cplAL core"
+        ],
+        "shell": "/bin/bash"
+      }
+    ]
+  }
+}
